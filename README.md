@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hitesh-jethava-546290223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-jethava-546290223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hitesh-jethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23347844/hitesh-jethava" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23347844/hitesh-jethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23347844/hitesh-jethava" height="30" width="40" /></a>
 <a href="https://medium.com/@hiteshjethava161611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hiteshjethava161611" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hitesh_1116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hitesh_1116" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hiteshjethava161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiteshjethava161" height="30" width="40" /></a>
