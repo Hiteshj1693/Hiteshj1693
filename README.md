@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <h1 align="center">Hi 👋, I'm Hitesh Jethava</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
@@ -28,13 +26,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hitesh-jethava-546290223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hitesh-jethava-546290223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23347844/hitesh-jethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23347844/hitesh-jethava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hitesh-jethava-546290223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-jethava-546290223" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hitesh-jethava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hitesh-jethava" height="30" width="40" /></a>
 <a href="https://medium.com/@hiteshjethava161611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hiteshjethava161611" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/hitesh_1116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hitesh_1116" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hiteshjethava161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hiteshjethava161" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/hitesh_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hitesh_16/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/hiteshjeth6afc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/hiteshjeth6afc/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hitesh_1116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hitesh_1116" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hiteshjethava161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiteshjethava161" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hitesh_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitesh_16/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hiteshjeth6afc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hiteshjeth6afc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +43,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshj1693&show_icons=true&locale=en" alt="hiteshj1693" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshj1693&" alt="hiteshj1693" /></p>
-
